@@ -11,8 +11,7 @@
 
 Release Note:
 
----
-|Time|Log|
-|20190724|First Version / 初稿|
-|20190725|Add Counter / 在文章末端增加一个计数器|
----
+| Time     | Note                                   |
+| -------- | -------------------------------------- |
+| 20190724 | First Version / 初稿                   |
+| 20190725 | Add Counter / 在文章末端增加一个计数器 |
